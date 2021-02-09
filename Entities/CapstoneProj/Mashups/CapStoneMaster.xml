@@ -3,7 +3,6 @@
  build="b222"
  majorVersion="8"
  minorVersion="5"
- modelPersistenceProviderPackage="PostgresPersistenceProviderPackage"
  revision="4"
  schemaVersion="1053"
  universal="password">

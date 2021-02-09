@@ -1,26 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Entities
- build="b222"
- majorVersion="8"
- minorVersion="5"
- revision="4"
- schemaVersion="1053"
+ majorVersion="9"
+ minorVersion="1"
  universal="password">
-    <Projects>
-        <Project
-         artifactId=""
-         dependsOn="{&quot;extensions&quot;:&quot;&quot;,&quot;projects&quot;:&quot;&quot;}"
+    <ApplicationKeys>
+        <ApplicationKey
+         clientName=""
          description=""
          documentationContent=""
-         groupId=""
+         expirationDate="2021-01-09T08:42:59.796Z"
          homeMashup=""
-         minPlatformVersion=""
-         name="CapstoneProj"
-         packageVersion="1.0.0"
-         projectName="CapstoneProj"
-         publishResult=""
-         state="DRAFT"
-         tags="">
+         ipWhitelist=""
+         keyId=""
+         name="RestAPI"
+         projectName="RestAPIDemoProject"
+         tags=""
+         userNameReference="kavyak.s@cognizant.com">
             <avatar></avatar>
             <DesignTimePermissions>
                 <Create></Create>
@@ -35,6 +30,6 @@
             </VisibilityPermissions>
             <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
             <ConfigurationTables></ConfigurationTables>
-        </Project>
-    </Projects>
+        </ApplicationKey>
+    </ApplicationKeys>
 </Entities>
